@@ -6,6 +6,9 @@
 - 🔥 政治×テクノロジーで[民主主義2.0](https://demotech.jp/)を目指す。
 - 🌱 2026年の目標:next.jsでブログサービスを作る
 
-![Atsumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshiki-atsumi&show_icons=true&theme=tokyonight)
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yoshiki-atsumi)](https://github.com/ryo-ma/github-profile-trophy)
+[![Atsumi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yoshiki-atsumi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+</div>
